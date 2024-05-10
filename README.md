@@ -1,6 +1,17 @@
 # Fast Markdown AI
 
-O projeto foi pensado para criar um `README.md` com Inteligência artificial, A ideia fundamental é mandar um trecho de código ou um resumo do projeto e ter um modelo inical com comandos do markdown para auxiliar na ciração do `README.md` do projeto!
+O projeto foi pensado para criar um `README.md` com Inteligência artificial, A ideia fundamental é mandar um trecho de código ou um resumo do projeto e ter um modelo inical com comandos do markdown para auxiliar na criação do `README.md` do projeto! Não é para acabar com a graça de escrever os *README's* mas deixar o processo mais rápido.
+
+Cansado de perder tempo escrevendo READMEs? Automatize a criação de READMEs.md completos com base em um resumo do seu projeto ou em um trecho de código!
+
+O projeto te ajuda com a maior parte da estrutura, mas os detalhes finais dependem do seu toque especial! ⭐
+
+- Obtenha um rascunho inicial com comandos Markdown em segundos.
+- Elimine a lentidão e comece a escrever na hora.
+- Mantenha a padronização em todos os seus READMEs.
+- Documente seus projetos de forma clara e organizada.
+- Dê adeus à parte chata e dedique mais tempo ao que realmente importa: seu projeto!
+- Experimente agora e impulsione sua produtividade!
 
 ## Exemplo de readme.md criado pela Fest Markdown AI
 ---
